@@ -8,8 +8,8 @@ Copy the `tsconfig.json` file to the root location of your TypeScript project.
 
 # Environment
 
-* Node.js 10.16.3 LTS
-* TypeScript 3.5.3
+* Node.js    14
+* TypeScript 4
 
 ## File Structure
 
@@ -19,11 +19,12 @@ Copy the `tsconfig.json` file to the root location of your TypeScript project.
 +-- node_modules/     -- Dependencies
 +-- src/              -- TypeScript source
 +-- dist/             -- JavaScript for distribution
++-- test/             -- Unit tests
 ```
 
 # License
 
-MIT
+GNU Affero General Public License v3.0
 
 # Authors
 
